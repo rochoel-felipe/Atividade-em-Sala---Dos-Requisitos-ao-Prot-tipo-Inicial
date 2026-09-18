@@ -40,9 +40,9 @@ if __name__ == "__main__":
     main()
     
 # ==============================================================================
-# AUTOAVALIAÇÃO (Critério 6 / Passo 3)
-# Critérios atingidos: 1, 2, 3, 4, 5 e 6.
-# Requisito mais difícil: R2, pois exigiu lógica para separar regras de alunos e funcionários.
-# Como resolvi: Criei uma lista de dicionários filtrando pelo tipo de permissão.
+# AUTOAVALIAÇÃO
+# Creio ter cumprido os critérios 1, 2, 3, 4, 5 e 6.
+# Requisito mais difícil foi R2, pois exigiu lógica para separar regras de alunos e funcionários.
+# Resolvi implementando validação condicional simples comparando a categoria.
 # Uso de IA: Ajudou a acelerar a escrita dos laços e formatação de saída.
 # ==============================================================================
